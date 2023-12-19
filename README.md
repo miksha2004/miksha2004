@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miksha2004
 - 👀 I’m currently learning with the help of docs.github.com
-- 🌱 I'm currently working on something cool!
-- 💞️ Fun fact -I'm fairly good with sketching 
+- 🌱 I'm currently working on something cool !
+- 💞️ Fun fact - I'm fairly good with sketching 
 
 
 
